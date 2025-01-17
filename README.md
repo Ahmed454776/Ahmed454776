@@ -1,9 +1,9 @@
-# Hi there 👋
+# Hi, I'm Rizve 👋
 
 
 **Ahmed454776/Ahmed454776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here is some information to share you with:
+Here is some information to share with you:
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning JavaScript.
