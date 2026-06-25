@@ -5,7 +5,7 @@
 
 Here is some information to share with you:
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently working on Frontend web development and AI automation & agent development.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: syedalauddin452@gmail.com
 
